@@ -1,14 +1,14 @@
 header {
-background:#F5A3A3;
+background:#a53232;
 padding:16px;
 }
 
 .painel { 
-background:#fff;
-background:#fff;
+background:#000000;
+background:#000000;
 border-radius:8px;
-radius:8px; 
-box-shadow:0 2px 8px rgba(0,0,0,.1);
+border-radius:8px; 
+box-shadow:0 2px 8px rgba(138, 26, 26, 0.1);
 padding:12px; 
 }
 .painel h2 { 
